@@ -1,6 +1,6 @@
 ### Detección de malezas con visión computacional
 
-Este repositorio contiene códigos de programación en lenguaje Python y archivos complementarios para discriminar entre plántulas de malezas y cultivos usando visión computacional.
+Este repositorio contiene códigos de programación en lenguajes R y Python, y archivos complementarios para identificar plántulas de malezas y cultivos usando visión computacional.
 
 El modelo fue entrenado usando el sistema de detección de objetos "You Only Look Once" (YOLO) versión 8.0 (Jocher et al., 2023). Las fotos de plántulas de maíz (*Zea mays*) y hualcacho (*Echinochloa crusgalli*) provienen del trabajo de Genze et al. (2024) y consistieron en 2.179 imágenes (1.699 para entrenamiento y 480 para validación).
 
