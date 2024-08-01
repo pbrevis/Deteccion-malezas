@@ -1,0 +1,4 @@
+train: /content/gdrive/MyDrive/weed-detector/datasets/train/images
+val: /content/gdrive/MyDrive/weed-detector/datasets/valid/images
+nc: 2
+names: ['ECHCG', 'ZEAMX']
